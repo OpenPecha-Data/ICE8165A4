@@ -1,15 +1,16 @@
-id: opecha:P008000
+id: P008000
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ8010
   title: སེར་སྨད་ཟུར་བཀོལ་སྤྱི་མཐའ།
-  volume:
+  author: ''
+  volumes:
     36204a0462a94a36a776c1af70bdaadc:
       image_group_id: I1PD96582
       title: Volume 1 of ser smad zur bkol spyi mtha'
       volume_number: 1
       total_pages: 636
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སེར་སྨད་ཟུར་བཀོལ་སྤྱི་མཐའ།
   author: ''
